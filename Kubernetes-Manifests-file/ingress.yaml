@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: yunus.study
+    - host: study.yunus.in
       http:
         paths:
           - path: /api
